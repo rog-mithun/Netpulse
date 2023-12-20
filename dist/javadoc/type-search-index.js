@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"netpulse","l":"client"},{"p":"netpulse","l":"NetworkAnalysisResult"},{"p":"netpulse","l":"server"}];updateSearchResults();
