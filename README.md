@@ -1,6 +1,6 @@
 # 🌐 Netpulse – Java-Based Network Analysis Tool
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A lightweight Java application designed to monitor and analyze key network performance parameters such as jitter, bandwidth, upload/download speeds, and packet statistics. Featuring a client-server architecture, **Netpulse** enables real-time metric retrieval and enhances user diagnostics for network reliability.
 
