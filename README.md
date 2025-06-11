@@ -49,9 +49,10 @@ A lightweight Java application designed to monitor and analyze key network perfo
    cd Netpulse
 
 2. **Open with NetBeans IDE:**
-   -Load the project using NetBeans.
-   -Build the project (Clean and Build).
-   -Run server.java first, followed by client.java.
+   
+   Load the project using NetBeans.
+   Build the project (Clean and Build).
+   Run server.java first, followed by client.java.
 
 ---
 
